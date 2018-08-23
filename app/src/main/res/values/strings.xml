@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <string name="text_Grados">23º</string>
+    <string name="text_Ciudad">Málaga</string>
+    <string name="text_Clima">Soleado</string>
+    <string name="text_Bienvenido">Bienvenido al selector de ciudades</string>
+    <string name="boton_Malaga">Málaga</string>
+    <string name="boton_Mostoles">Mostoles</string>
+    <string name="boton_Fuengirola">Fuengirola</string>
+</resources>
